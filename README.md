@@ -6,6 +6,8 @@
 
 > Re-decentralizing the web
 
+Read more about [Solid information](https://github.com/solid/information).
+
 Solid (derived from "**so**cial **li**nked **d**ata") is a proposed set of
 conventions and tools for building *decentralized Web applications* based on
 [Linked Data](http://www.w3.org/DesignIssues/LinkedData.html) principles. Solid
@@ -18,10 +20,8 @@ Solid is made possible by a community of [contributors](https://github.com/solid
 
 1. [About Solid](#about-solid)
 2. [Standards Used](#standards-used)
-3. [Platform Notes](#platform-notes)
-4. [Project directory](#project-directory)
-5. [Contributing to Solid](#contributing-to-solid)
-  * [Pre-Requisites](#pre-requisites)
+3. [Project directory](#project-directory)
+4. [Contributing to Solid](#contributing-to-solid)
   * [Solid Project Workflow](#solid-project-workflow)
 
 ## About Solid
@@ -47,8 +47,7 @@ Specifically, Solid is:
   libraries (such as [solid-auth-client](https://github.com/solid/solid-auth-client)) that run on
   the Solid platform.
 * A community providing documentation, discussion (see the
-  [solid forum](https://forum.solidproject.org)),
-  [tutorials](https://github.com/solid/solid#tutorials) and
+  [solid forum](https://forum.solidproject.org)), and
   [talks/presentations](https://github.com/solid/talks).
 
 ## Standards Used
@@ -219,7 +218,6 @@ please use the following workflow:
   apps, and so on.
   
 ## Places to chat
- 
-We use Discourse. There is a place to introduce yourself and get to know others (https://forum.solidproject.org/t/welcome-to-the-solid-forum-please-introduce-yourself-here-great-to-have-you-on-board/440/20), a general chat(https://forum.solidproject.org/t/simply-chat-a-place-for-light-hearted-quick-questions-and-comments/441/3), and a place to talk about your idea to get feedback and find out about others working on similar ideas (https://forum.solidproject.org/c/app-communities).
+https://github.com/solid/information#solid-conversations
  
  
